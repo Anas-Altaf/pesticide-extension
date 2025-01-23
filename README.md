@@ -1,12 +1,54 @@
 # Pesticide for Chrome
 
-This is a Chrome extension for [Pesticide CSS](https://github.com/mrmrs/pesticide) and is [availabe in the Chrome Webstore here](https://chrome.google.com/webstore/detail/bblbgcheenepgnnajgfpiicnbbdmmooh).
+This is a Chrome extension for [Pesticide CSS]([https://github.com/mrmrs/pesticide](https://github.com/mrmrs/pesticide/tree/master/pesticide_for_chrome)) and is [availabe in the Chrome Webstore here]().
 
 This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 
-[You can follow Adam on Twitter here.](https://twitter.com/mrmrs_)
+# How to Use the Chrome Extension
 
-[You can follow me here.](https://twitter.com/paulmolluzzo)
+Follow these simple steps to download and install the Chrome extension:
+
+### 1. Download the Chrome Extension ZIP
+
+🔗 Go to the [Releases](https://github.com/Anas-Altaf/pesticide-extension/releases) section of the repository.
+
+📂 Download the ZIP file of the latest version.
+
+> **Note**: Make sure you're downloading the latest version for the best experience!
+
+### 2. Extract the ZIP File
+
+📥 After downloading the ZIP file, **extract it** to a folder on your computer.
+
+### 3. Open Chrome Extensions
+
+🖱️ Open Google Chrome and type `chrome://extensions/` in the address bar.
+
+Alternatively, you can navigate through the menu:
+
+- Click the three dots (⋮) in the top-right corner of Chrome.
+- Select **More tools** > **Extensions**.
+
+### 4. Enable Developer Mode
+
+🔧 In the top-right corner of the Extensions page, **toggle on** **Developer mode**.
+
+### 5. Load Unpacked Extension
+
+📂 Click on the **Load unpacked** button.
+
+🖥️ Browse to the folder where you extracted the ZIP file, and select it.
+
+🚀 **Your extension is now installed and ready to use!**
+
+### 6. Enjoy the Extension
+
+🎉 The extension will now appear in your Chrome toolbar. Click on its icon to start using it.
+
+---
+
+Feel free to reach out if you run into any issues. We're here to help! 🙂
+
 
 The MIT License (MIT)
 
